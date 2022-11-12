@@ -1,4 +1,4 @@
-from Atividades.Cnpj.Gerando import cnpj
+import cnpj
 
 cnpj1 = '04.252.011/0001-10'
 
